@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hwUf2VB6l/IWtQcuWW3Jden5ryfXZnvOz93N1aBAy2npDzRxWcwdj9v9XS3Eo5Xy+re9h1s13eW1QTmVOnb4TA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TanveerU\\source\\repos\\KuberDockApiEx1\\KuberDockApiEx1\\KuberDockApiEx1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TanveerU\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
